@@ -1,61 +1,69 @@
-Privacy Policy
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #2d3436; max-width: 800px; margin: 0 auto; padding: 40px 20px; }
+        h1 { border-bottom: 2px solid #dfe6e9; padding-bottom: 10px; color: #2d3436; font-size: 2.2em; }
+        h2 { margin-top: 30px; color: #0984e3; font-size: 1.5em; }
+        .last-updated { font-style: italic; color: #636e72; margin-bottom: 30px; }
+        .privacy-seal { background: #e3f2fd; border-left: 5px solid #0984e3; padding: 20px; border-radius: 4px; margin-bottom: 30px; }
+        .privacy-seal strong { color: #0d47a1; }
+        .highlight-box { background: #fdfdfd; border: 1px solid #dfe6e9; padding: 20px; border-radius: 8px; margin: 20px 0; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 12px; }
+        .footer-contact { background: #f9f9f9; padding: 25px; border-radius: 8px; margin-top: 50px; border: 1px dashed #b2bec3; }
+        a { color: #0984e3; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+    <title>Privacy Policy - UType AI</title>
+</head>
+<body>
 
-Last updated: January 16, 2026
+    <h1>Privacy Policy</h1>
+    <p class="last-updated">Last Updated: January 16, 2026</p>
 
-Thank you for using UType.
-Your privacy is important to us, and this Privacy Policy explains how your information is handled.
+    <div class="privacy-seal">
+        <strong>Privacy by Design:</strong> UType is built on the principle that your data belongs to you. Unlike traditional AI assistants, UType operates entirely on your physical device hardware. Your data never touches the cloud.
+    </div>
 
-1. Information We Collect
+    <p>Thank you for choosing <strong>UType</strong>. Your digital privacy is our core priority. This Privacy Policy describes our commitment to your data security and explains why our local-first architecture is safer than cloud-based alternatives.</p>
 
-UType does not collect, store, or transmit any personal data.
+    <h2>1. Data Collection Philosophy</h2>
+    <p>UType follows a strict "Zero-Collection" policy. We do not collect, store, transmit, or monetize any personal data. Our business model is based on providing a high-quality tool, not on selling user information.</p>
 
-All text entered or selected by the user is processed locally on the device. No user-entered content leaves the device.
+    <h2>2. Exclusive On-Device Processing</h2>
+    <div class="highlight-box">
+        <p>All text analysis, rewriting, summarization, and AI-powered features are performed <strong>entirely on-device</strong>. This means:</p>
+        <ul>
+            <li><strong>Zero Cloud Transmission:</strong> No user-entered or selected text ever leaves your device.</li>
+            <li><strong>No External LLM API:</strong> We do not use third-party APIs (like OpenAI or Anthropic) that require sending your data to external servers.</li>
+            <li><strong>No Third-Party Access:</strong> Because data is never transmitted, no third parties can ever receive or intercept your user data.</li>
+        </ul>
+    </div>
 
-2. On-Device Processing
+    <h2>3. Data Storage and Control</h2>
+    <p>UType does not maintain remote databases or user accounts. Any text you process exists only in the volatile memory (RAM) or local storage of your device while the app is active.</p>
+    <ul>
+        <li>We do not track user behavior or app usage patterns.</li>
+        <li>We do not use analytics, cookies, or tracking pixels.</li>
+        <li>Your data remains under your physical control at all times.</li>
+    </ul>
 
-All text analysis, rewriting, summarization,..., or AI-powered features are performed entirely on-device.
+    <h2>4. Internet Access and Connectivity</h2>
+    <p>The App is designed to function fully without an active internet connection. While the App Store may require a connection for subscription verification, the AI core remains offline-capable to ensure maximum security.</p>
 
-No text is sent to external servers
+    <h2>5. Children’s Privacy</h2>
+    <p>Because UType does not collect any personal information, it is inherently compliant with children's privacy regulations (such as COPPA). We do not knowingly solicit or collect data from anyone, regardless of age.</p>
 
-No cloud processing is used
+    <h2>6. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy to reflect changes in our App's functionality. However, our commitment to local processing and zero data collection will remain the foundation of our service. Any revisions will be marked with an updated date at the top of this page.</p>
 
-No third parties receive user data
+    <div class="footer-contact">
+        <h2>8. Contact Our Privacy Team</h2>
+        <p>If you have questions regarding our local-processing architecture or our commitment to privacy, please contact us:</p>
+        <p><strong>Email:</strong> <a href="mailto:mrsoulemedia@gmail.com">mrsoulemedia@gmail.com</a></p>
+    </div>
 
-3. Data Storage
-
-The App does not:
-
-Store user text on remote servers
-
-Maintain user accounts
-
-Track user behavior
-
-Use analytics or tracking tools
-
-Any data remains only on the user’s device and under their control.
-
-4. Data Sharing
-
-We do not share any data with third parties.
-
-5. Internet Access
-
-The App may function without requiring an internet connection. If internet access is used in the future, this Privacy Policy will be updated accordingly.
-
-6. Children’s Privacy
-
-The App does not knowingly collect personal information from children under the age of 13.
-
-7. Changes to This Policy
-
-We may update this Privacy Policy from time to time.
-Any changes will be reflected on this page with an updated revision date.
-
-8. Contact Us 
-
-If you have any questions about this Privacy Policy, please contact:
-
-📧 Email: mrsoulemedia@gmail.com
-
-
+</body>
+</html>
