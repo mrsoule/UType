@@ -6,6 +6,7 @@
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
         h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; color: #000; }
         h2 { margin-top: 30px; color: #0056b3; border-left: 4px solid #0056b3; padding-left: 10px; }
+        p { margin-bottom: 15px; }
         .effective-date { font-style: italic; color: #666; margin-bottom: 20px; }
         .summary-box { background: #f8f9fa; border: 1px solid #e1e4e8; padding: 15px; border-radius: 8px; margin-bottom: 25px; }
         .summary-box strong { color: #d73a49; }
