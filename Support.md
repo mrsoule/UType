@@ -48,7 +48,7 @@
     </div>
 
     <div class="footer">
-        <p>© 2026 V2. All rights reserved.</p>
+            <p>© 2026 Mohamed Ed Dahhani. All rights reserved.</p>
     </div>
 
 </body>
