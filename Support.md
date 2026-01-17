@@ -43,8 +43,8 @@
         <h2>Legal & Compliance</h2>
         <p>By using the app, you agree to our terms and acknowledge our data processing practices:</p>
         <ul>
-            <li><strong>Privacy Policy:</strong> <a href="privacy.html">Review our Privacy Commitment</a></li>
-            <li><strong>Terms of Use:</strong> <a href="terms.html">Read our Terms of Use</a></li>
+            <li><strong>Privacy Policy:</strong> <a href="privacy-policy">Review our Privacy Commitment</a></li>
+            <li><strong>Terms of Use:</strong> <a href="terms-of-use">Read our Terms of Use</a></li>
         </ul>
     </div>
 
