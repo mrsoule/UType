@@ -12,6 +12,7 @@
         ul { padding-left: 20px; }
         li { margin-bottom: 10px; }
         .contact { background: #e7f3ff; padding: 15px; border-radius: 8px; margin-top: 40px; }
+        .footer { margin-top: 50px; font-size: 0.9em; color: #b2bec3; text-align: center; }
     </style>
     <title>Terms of Use - UType AI</title>
 </head>
