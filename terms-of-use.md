@@ -49,7 +49,7 @@
     <h2>4. Subscriptions, Payments, and Trial Limits</h2>
     <p>V2 operates on a freemium model to ensure sustainable development.</p>
     <ul>
-        <li><strong>Free Tier Limitations:</strong> Usage is restricted to 10 inputs per 24-hour cycle for a maximum duration of 3 days.</li>
+        <li><strong>Free Tier Limitations:</strong> Usage is restricted to 7 inputs per 24-hour cycle for a maximum duration of 3 days.</li>
         <li><strong>Billing:</strong> Transactions are handled exclusively via the Apple App Store. Subscriptions auto-renew unless disabled in your Apple ID settings at least 24 hours prior to the period end.</li>
         <li><strong>Restoration:</strong> If you reinstall the App or switch devices, use the "Restore Purchases" button to reactivate your Pro status.</li>
     </ul>
